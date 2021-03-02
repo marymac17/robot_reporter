@@ -18,7 +18,7 @@ That's where the robot's work ends, and where the human work takes over.
 I put my journalist's cap on, and analyze those lists of topics, which provide insights about the group of Tweets as an aggregate - insights which I could not possibly have reached without the robot having "read" them for me.
 
 
-### The blog: [Robot Reporting](http://https://www.robotreporting.info/)
+### The blog: [Robot Reporting](https://www.robotreporting.info/)
 Each post follows the following format:
 
 NEWS KEYWORD SEARCH: I tell you what term or terms I searched for.
