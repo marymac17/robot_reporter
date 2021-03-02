@@ -2,6 +2,8 @@
 
 ## Blog that uses NLP-based topic modeling to analyze Tweets
 
+<img src="images/robot.png"/>
+
 
 ### Goal of this project:
 I’m a data scientist who builds programs that can read huge numbers of documents within minutes. These programs can do more than just read documents - they can also detect the underlying topics in these documents, and assign them to categories according to the content in each document. 
