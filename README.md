@@ -2,7 +2,7 @@
 
 ## Blog that uses NLP-based topic modeling to analyze Tweets
 
-<img src="images/robot.png"/>
+<img src="images/robot2.png"/>
 
 
 ### Goal of this project:
